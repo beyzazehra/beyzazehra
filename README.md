@@ -1,5 +1,7 @@
-# 💫 About Me:
-Hello and welcome to my GitHub profile! I am a software engineering student based in Istanbul and currently I have understanding of the Java programming language and also interested in iOS development. 
+# 👩🏽‍💻 About Me:
+Hello and welcome to my GitHub profile! I am an iOS developer intern based in Istanbul, dedicated to advancing my skills in iOS development. With a
+commitment to continuous self-improvement, I actively stay updated with the latest technological
+advancements.
 
 
 ## 🌐 Socials:
@@ -7,13 +9,6 @@ Hello and welcome to my GitHub profile! I am a software engineering student base
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=beyzazehra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=beyzazehra&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=beyzazehra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=beyzazehra&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
