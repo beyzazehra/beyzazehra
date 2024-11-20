@@ -1,5 +1,5 @@
 # 👩🏽‍💻 About Me:
-Hello and welcome to my GitHub profile! I am an iOS developer intern based in Istanbul, dedicated to advancing my skills in iOS development. With a
+Hello and welcome to my GitHub profile! I am an iOS developer based in Istanbul, dedicated to advancing my skills in iOS development. With a
 commitment to continuous self-improvement, I actively stay updated with the latest technological
 advancements.
 
